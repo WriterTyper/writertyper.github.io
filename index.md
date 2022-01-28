@@ -4,12 +4,14 @@ You can use the [editor on GitHub](https://github.com/WriterTyper/writertyper.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Learn 3 simple RStudio shortcuts
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Ctrl + Shift + M    %>%
+Alt + -         <-
+Ctrl + Alt + I      Insert a new chunk in R Markdown or R Notebooks
 
 # Header 1
 ## Header 2
